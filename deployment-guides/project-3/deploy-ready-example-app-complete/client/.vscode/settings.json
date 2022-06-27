@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#961807",
+    "titleBar.activeBackground": "#961807",
+    "titleBar.inactiveBackground": "#961807",
+    "statusBar.foreground": "#fff",
+    "titleBar.inactiveForeground": "#fff",
+    "titleBar.activeForeground": "#fff",
+  },
+  "window.title": "FILMS FRONTEND"
+}
